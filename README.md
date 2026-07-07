@@ -43,7 +43,8 @@ Vehicle State
       │
       ▼
 Feature Extraction
-      │
+      │<img width="1371" height="1147" alt="Block_diagram" src="https://github.com/user-attachments/assets/a7686a82-9411-4553-8666-0fea1cb4658a" />
+
       ▼
 Graph Construction
       │
